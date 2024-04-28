@@ -101,3 +101,9 @@ tr:hover{
     z-index: 1;
 }
 
+#innerskills{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
